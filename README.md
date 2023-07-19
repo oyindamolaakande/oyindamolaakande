@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on a Data Analysis job(beginner level)
 - 📫 How to reach me Oyindamolaakande@gmail.com
+- Linkedin- www.linkedin.com/in/oyindamola-akande-gnim
 
 <!---
 oyindamolaakande/oyindamolaakande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
